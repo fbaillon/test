@@ -1,4 +1,6 @@
 <?php 
+
+// Démarre une session
 session_start();
 require 'include/connexion.php';
 

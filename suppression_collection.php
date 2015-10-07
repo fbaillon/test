@@ -1,4 +1,6 @@
 <?php
+
+// Permet de supprimer une collection
 require('include/connexion.php');
 
 $bSupprimer = false;
